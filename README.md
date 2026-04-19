@@ -265,5 +265,5 @@ You are free to use, modify, and distribute this template. Any derivative work m
 ---
 
 <p align="center">
-  Built with ☕ and stubbornness by <a href="https://github.com/glacayo">glacayo</a>
+  Built with ☕ by <a href="https://github.com/glacayo">glacayo</a>
 </p>
