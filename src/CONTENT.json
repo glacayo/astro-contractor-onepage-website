@@ -44,12 +44,12 @@
         "tiktok": "[TIKTOK URL or NO TIKTOK]"
     },
     "services": [
-        { "name": "[SERVICE 1 NAME]", "description": "[PLACEHOLDER]" },
-        { "name": "[SERVICE 2 NAME]", "description": "[PLACEHOLDER]" },
-        { "name": "[SERVICE 3 NAME]", "description": "[PLACEHOLDER]" },
-        { "name": "[SERVICE 4 NAME]", "description": "[PLACEHOLDER]" },
-        { "name": "[SERVICE 5 NAME]", "description": "[PLACEHOLDER]" },
-        { "name": "[SERVICE 6 NAME]", "description": "[PLACEHOLDER]" }
+        { "name": "[SERVICE 1 NAME — you fill this]", "description": "[PLACEHOLDER — agent writes this]" },
+        { "name": "[SERVICE 2 NAME — you fill this]", "description": "[PLACEHOLDER — agent writes this]" },
+        { "name": "[SERVICE 3 NAME — you fill this]", "description": "[PLACEHOLDER — agent writes this]" },
+        { "name": "[SERVICE 4 NAME — you fill this]", "description": "[PLACEHOLDER — agent writes this]" },
+        { "name": "[SERVICE 5 NAME — you fill this]", "description": "[PLACEHOLDER — agent writes this]" },
+        { "name": "[SERVICE 6 NAME — you fill this]", "description": "[PLACEHOLDER — agent writes this]" }
     ],
 
     "__AI_COPY__": "─── Leave these as [PLACEHOLDER] — the agent writes them based on client data above ───",
